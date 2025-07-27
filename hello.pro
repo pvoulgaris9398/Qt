@@ -3,7 +3,7 @@
 ######################################################################
 CONFIG -= entrypoint
 TEMPLATE = app
-TARGET = hello
+TARGET = hello.exe
 INCLUDEPATH += .
 
 QT += widgets
